@@ -1,0 +1,38 @@
+body {
+    color: #fff;
+    font: 600 14px/24px "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light",
+    "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Sans-Serif;
+    width:40%;
+    margin:auto;
+    padding: 10px;
+
+}
+.box1 {
+    background-image:linear-gradient(to right, red, green);
+    border-radius: 6px;
+    height: 95px;
+    line-height: 95px;
+    text-align: center;
+    width: 95px;
+    display: inline-block;
+}
+
+.box2 {
+    background: radial-gradient(at 50% top ,red,yellow,green);
+    border-radius: 6px;
+    height: 95px;
+    line-height: 95px;
+    text-align: center;
+    width: 95px;
+    display: inline-block;
+}
+
+.box3 {
+    background:radial-gradient( at top,red,yellow,green);
+    border-radius: 6px;
+    height: 95px;
+    line-height: 95px;
+    text-align: center;
+    width: 95px;
+    display: inline-block;
+}
